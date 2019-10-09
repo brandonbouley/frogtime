@@ -85,12 +85,16 @@ public class Fraction {
         Fraction f6 = new Fraction(5,7);
         Fraction f7 = new Fraction(2, 10);
         Fraction f8 = f6.add(f7);
-        System.out.println(f6 + " + " + f7 + " = " + f8 );
 
-
-
-
+        System.out.println(f6 + " + " + f7 + " = " + f8);
 
     }
 
 }
+/*
+3/4 + 4/5 = 31/20
+3/4 - 4/5 = -1/20
+3/4 * 4/5 = 12/20
+5/7 + 2/10 = 64/70
+
+Process finished with exit code 0 */
